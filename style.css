@@ -1,14 +1,14 @@
 body {
     margin: 0;
     height: 100vh;
-    background-color: rgb(29, 38, 46);
+    background-color: lavenderblush;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 :root {
-    --color1:red;
+    --color1:hotpink;
     --color2:black;
 }
 
